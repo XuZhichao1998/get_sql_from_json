@@ -49,4 +49,5 @@ INSERT INTO Department(Id, Name) VALUES
     (1, "IT"),
     (2, "Sales");
 ```
-我们现在要做的，就是给一个字符串，转化为我们这样格式的MySQL DML
+我们现在要做的，就是给一个字符串，转化为我们这样格式的MySQL DML  
+Try it!  
